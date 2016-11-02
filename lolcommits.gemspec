@@ -40,7 +40,6 @@ Gem::Specification.new do |s|
 
   # core
   s.add_runtime_dependency('methadone', '~> 1.9.2')
-  s.add_runtime_dependency('choice', '~> 0.2.0')
   s.add_runtime_dependency('mercurial-ruby', '~> 0.7.12')
   s.add_runtime_dependency('mini_magick', '~> 4.5.1')
   s.add_runtime_dependency('launchy', '~> 2.4.3')
